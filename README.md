@@ -1,5 +1,9 @@
 # 10.2-let-const-Exercise
 
+const PI = 3.14;
+PI = 42; //Error
+
+
 What is the difference between var and let?
 
 var is reassignable and redeclarable, while let is reassignable but not redeclarable.
